@@ -1,0 +1,223 @@
+{
+  "updatedAt": "2026-07-02T15:15:29.000Z",
+  "title": "Arivo IKB Demo",
+  "localizedTitle": {},
+  "internationalization": {
+    "locale": "en"
+  },
+  "styling": {
+    "theme": "clean",
+    "primaryColor": {
+      "dark": "#F68D21",
+      "light": "#F68D21"
+    },
+    "infoColor": {
+      "dark": "#E2E8F0",
+      "light": "#1976D2"
+    },
+    "successColor": {
+      "dark": "#388E3C",
+      "light": "#388E3C"
+    },
+    "warningColor": {
+      "dark": "#FFCC80",
+      "light": "#F68D21"
+    },
+    "dangerColor": {
+      "dark": "#D32F2F",
+      "light": "#D32F2F"
+    },
+    "tint": {
+      "color": {
+        "dark": "#151B26",
+        "light": "#F1F5F9"
+      }
+    },
+    "corners": "rounded",
+    "depth": "flat",
+    "links": "accent",
+    "font": "Inter",
+    "monospaceFont": "IBMPlexMono",
+    "icons": "regular",
+    "background": "plain",
+    "sidebar": {
+      "background": "filled",
+      "list": "line"
+    },
+    "codeTheme": {
+      "default": {
+        "light": "default-light",
+        "dark": "default-dark"
+      },
+      "openapi": {
+        "light": "default-light",
+        "dark": "default-dark"
+      }
+    },
+    "search": "prominent"
+  },
+  "favicon": {
+    "icon": {
+      "light": "https://raw.githubusercontent.com/gitbook-demo-sites/arivo-ikb-demo-site-20260702/main/assets/arivou-brandmark-color.png",
+      "dark": "https://raw.githubusercontent.com/gitbook-demo-sites/arivo-ikb-demo-site-20260702/main/assets/arivou-brandmark-color.png"
+    }
+  },
+  "header": {
+    "preset": "default",
+    "logo": {
+      "light": "https://raw.githubusercontent.com/gitbook-demo-sites/arivo-ikb-demo-site-20260702/main/assets/arivo-logo-color.png",
+      "dark": "https://raw.githubusercontent.com/gitbook-demo-sites/arivo-ikb-demo-site-20260702/main/assets/arivo-logo-white.png"
+    },
+    "links": [
+      {
+        "to": {
+          "kind": "space",
+          "space": "M2LOZI5OoKPKX9UWlGeo"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Home",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "kind": "space",
+          "space": "tnQvXEk80OYCwPfvuklz"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Policies",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "kind": "space",
+          "space": "rVvSwqfOlUBHQJHQuJwN"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Changelog",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "url": "https://arivo.com/",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "button-secondary",
+        "title": "Arivo",
+        "localizedTitle": {}
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "light": "https://raw.githubusercontent.com/gitbook-demo-sites/arivo-ikb-demo-site-20260702/main/assets/arivo-logo-color.png",
+      "dark": "https://raw.githubusercontent.com/gitbook-demo-sites/arivo-ikb-demo-site-20260702/main/assets/arivo-logo-white.png"
+    },
+    "groups": [
+      {
+        "links": [
+          {
+            "to": {
+              "kind": "space",
+              "space": "M2LOZI5OoKPKX9UWlGeo"
+            },
+            "title": "Home",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "tnQvXEk80OYCwPfvuklz"
+            },
+            "title": "Policies",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "rVvSwqfOlUBHQJHQuJwN"
+            },
+            "title": "Changelog",
+            "localizedTitle": {}
+          }
+        ],
+        "title": "Sections",
+        "localizedTitle": {}
+      },
+      {
+        "links": [
+          {
+            "to": {
+              "url": "https://github.com/gitbook-demo-sites/arivo-ikb-demo-site-20260702",
+              "kind": "url"
+            },
+            "title": "Source repo",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "url": "https://arivo.com/",
+              "kind": "url"
+            },
+            "title": "Arivo website",
+            "localizedTitle": {}
+          }
+        ],
+        "title": "Sources",
+        "localizedTitle": {}
+      }
+    ],
+    "copyright": "Arivo IKB Demo - built for GitBook review."
+  },
+  "themes": {
+    "default": "light",
+    "toggeable": true
+  },
+  "trademark": {
+    "enabled": true
+  },
+  "feedback": {
+    "enabled": true
+  },
+  "ai": {
+    "mode": "assistant",
+    "suggestions": [
+      "Search the Account Servicing policy",
+      "What changed in the latest policy update?",
+      "How does the payment waterfall work?",
+      "Which customer communication rules are compliance-sensitive?",
+      "Which policies are due for review?"
+    ]
+  },
+  "advancedCustomization": {
+    "enabled": true
+  },
+  "pageActions": {
+    "items": [
+      "assistant",
+      "markdown",
+      "external-ai",
+      "mcp",
+      "pdf"
+    ]
+  },
+  "pagination": {
+    "enabled": true
+  },
+  "privacyPolicy": {
+    "url": "https://arivo.com/privacy-policy"
+  },
+  "socialPreview": {
+    "url": "https://raw.githubusercontent.com/gitbook-demo-sites/arivo-ikb-demo-site-20260702/main/assets/arivou-brandmark-color.png"
+  },
+  "socialAccounts": [],
+  "externalLinks": {
+    "target": "self"
+  },
+  "insights": {
+    "trackingCookie": true
+  }
+}

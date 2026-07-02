@@ -1,0 +1,17 @@
+{
+  "HOME": {
+    "status": 204,
+    "space": "M2LOZI5OoKPKX9UWlGeo",
+    "folder": "home"
+  },
+  "POLICIES": {
+    "status": 204,
+    "space": "tnQvXEk80OYCwPfvuklz",
+    "folder": "policies"
+  },
+  "CHANGELOG": {
+    "status": 204,
+    "space": "rVvSwqfOlUBHQJHQuJwN",
+    "folder": "changelog"
+  }
+}

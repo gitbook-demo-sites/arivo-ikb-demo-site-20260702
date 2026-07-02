@@ -262,7 +262,12 @@ def main():
     _, customized = api("PUT", f"/orgs/{ORG_ID}/sites/{SITE_ID}/customization", customization)
     (ROOT / "gitbook-multisection-customization.json").write_text(json.dumps(customized, indent=2) + "\n", encoding="utf-8")
 
-    publish_status, publish = api("POST", f"/orgs/{ORG_ID}/sites/{SITE_ID}/publish")
+    try:
+        publish_status, publish = api("POST", f"/orgs/{ORG_ID}/sites/{SITE_ID}/publish")
+    except RuntimeError as exc:
+        if "Site is already published" not in str(exc):
+            raise
+        publish_status, publish = api("GET", f"/orgs/{ORG_ID}/sites/{SITE_ID}")
     final = {
         "publish_status": publish_status,
         "publish": publish,
@@ -278,4 +283,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
