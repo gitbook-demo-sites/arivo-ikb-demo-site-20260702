@@ -1,0 +1,54 @@
+{
+  "org": "Dy9l5da3BlsUX4ZBnpxR",
+  "site": "site_g8qEK",
+  "space": "tnQvXEk80OYCwPfvuklz",
+  "section": "sitesc_US0Wl",
+  "site_space": "sitesp_YT99O",
+  "site_object": {
+    "object": "site",
+    "id": "site_g8qEK",
+    "type": "ultimate",
+    "appliedType": "ultimate",
+    "title": "Arivo IKB Demo",
+    "icon": {
+      "icon": {
+        "dark": "https://www.google.com/s2/favicons?domain=gitbook.io&sz=256",
+        "light": "https://www.google.com/s2/favicons?domain=gitbook.io&sz=256"
+      }
+    },
+    "basename": "arivo-ikb-demo",
+    "visibility": "share-link",
+    "permissionsModel": "site",
+    "defaultLevel": null,
+    "published": false,
+    "createdAt": "2026-07-02T15:05:15.000Z",
+    "siteSpaces": 0,
+    "features": [
+      {
+        "id": "sites-share-links",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-ai-assistant",
+        "plan": "ultimate",
+        "frozen": false
+      },
+      {
+        "id": "sites-pdf-export",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-page-feedback",
+        "plan": "premium",
+        "frozen": false
+      }
+    ],
+    "urls": {
+      "location": "/orgs/Dy9l5da3BlsUX4ZBnpxR/sites/site_g8qEK",
+      "app": "https://app.gitbook.com/o/Dy9l5da3BlsUX4ZBnpxR/sites/site_g8qEK",
+      "preview": "https://sites.gitbook.com/preview/site_g8qEK/"
+    }
+  }
+}
