@@ -1,0 +1,82 @@
+{
+  "publish_status": 200,
+  "publish": {
+    "object": "site",
+    "id": "site_g8qEK",
+    "type": "ultimate",
+    "appliedType": "ultimate",
+    "title": "Arivo IKB Demo",
+    "icon": {
+      "icon": {
+        "dark": "https://raw.githubusercontent.com/gitbook-demo-sites/arivo-ikb-demo-site-20260702/main/assets/arivou-brandmark-color.png",
+        "light": "https://raw.githubusercontent.com/gitbook-demo-sites/arivo-ikb-demo-site-20260702/main/assets/arivou-brandmark-color.png"
+      }
+    },
+    "basename": "arivo-ikb-demo",
+    "visibility": "share-link",
+    "permissionsModel": "site",
+    "defaultLevel": null,
+    "published": true,
+    "createdAt": "2026-07-02T15:05:15.000Z",
+    "siteSpaces": 1,
+    "features": [
+      {
+        "id": "sites-share-links",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-ai-assistant",
+        "plan": "ultimate",
+        "frozen": false
+      },
+      {
+        "id": "sites-pdf-export",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-page-feedback",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-advanced-customization",
+        "plan": "premium",
+        "frozen": false,
+        "customizations": [
+          "header-logo",
+          "footer-logo",
+          "footer-links",
+          "footer-copyright",
+          "semantic-colors"
+        ]
+      },
+      {
+        "id": "sites-sections",
+        "plan": "ultimate",
+        "frozen": false
+      }
+    ],
+    "urls": {
+      "location": "/orgs/Dy9l5da3BlsUX4ZBnpxR/sites/site_g8qEK",
+      "app": "https://app.gitbook.com/o/Dy9l5da3BlsUX4ZBnpxR/sites/site_g8qEK",
+      "preview": "https://sites.gitbook.com/preview/site_g8qEK/"
+    }
+  },
+  "share_status": 201,
+  "share": {
+    "object": "share-link",
+    "id": "wtXQsjhPIRhxUvQ3k7Tv",
+    "createdAt": "2026-07-02T15:05:24.000Z",
+    "name": "Arivo IKB demo review",
+    "active": true,
+    "urls": {
+      "published": "https://arivo.gitbook.io/arivo-ikb-demo/wtXQsjhPIRhxUvQ3k7Tv/"
+    }
+  },
+  "published_url": "https://arivo.gitbook.io/arivo-ikb-demo/wtXQsjhPIRhxUvQ3k7Tv/",
+  "app_url": "https://app.gitbook.com/o/Dy9l5da3BlsUX4ZBnpxR/sites/site_g8qEK",
+  "preview_url": "https://sites.gitbook.com/preview/site_g8qEK/",
+  "repo": "https://github.com/gitbook-demo-sites/arivo-ikb-demo-site-20260702"
+}
